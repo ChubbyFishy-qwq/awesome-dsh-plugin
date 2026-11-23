@@ -1,0 +1,7 @@
+url: https://github.com/ChubbyFishy-qwq/dsh-whale-chess
+npm: dsh-whale-chess
+name: 鲸娘棋局 · dsh-whale-chess
+category: fun
+description:
+  zh: 在DSH Web界面里和鲸娘下国际象棋，支持复盘，难度选择，鲸娘交互等功能。
+  en: Play chess with WhaleGirl on the DSH Web interface, with features including game review, difficulty selection, and interaction with WhaleGirl.
